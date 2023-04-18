@@ -494,7 +494,7 @@ public class LinaerSearch {
 
 # **Section B**
 1. **Control flow diagram:**<br>
-![control-flow-diagram drawio](https://user-images.githubusercontent.com/75673068/231425222-27f0cc54-8a37-41a1-8d0f-b57b1db680a2.png)
+![232768435-0a3d6736-6af6-4b2f-bb0e-7ef095e50d83](https://user-images.githubusercontent.com/75675477/232782212-58907152-d22d-46b1-8809-4bbef2b8a1c8.png)
 
 2. **Test sets:**<br>
 
